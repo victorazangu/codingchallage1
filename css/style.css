@@ -1,5 +1,5 @@
 .body1{
-    max-width: 60%;
+    max-width: 80%;
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -7,4 +7,7 @@
 
 #survey-form{
     display: block;
+}
+*{
+    text-align: justify;
 }
